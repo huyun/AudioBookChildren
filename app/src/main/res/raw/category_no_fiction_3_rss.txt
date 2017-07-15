@@ -1,0 +1,12 @@
+https://librivox.org/rss/4822*http://archive.org/download/LibrivoxCdCoverArt28/Grammar-Land_1301.jpg
+https://librivox.org/rss/5299*http://archive.org/download/LibrivoxCdCoverArt22/Makers_Many_Things_1209.jpg
+https://librivox.org/rss/7857*http://archive.org/download/LibrivoxCdCoverArt33/ontario_1312.jpg
+https://librivox.org/rss/2418*http://www.archive.org/download/LibrivoxCdCoverArt/story_mankind_1003.jpg
+https://librivox.org/rss/824*http://www.archive.org/download/LibrivoxCdCoverArt/Story_of_the_Middle_Ages_1002.jpg
+https://librivox.org/rss/1491*http://www.archive.org/download/LibrivoxCdCoverArt12/This_Country_Ours_Part1_1110.jpg
+https://librivox.org/rss/3015*http://www.archive.org/download/LibrivoxCdCoverArt12/This_Country_Ours_Part2_1110.jpg
+https://librivox.org/rss/3108*http://www.archive.org/download/LibrivoxCdCoverArt12/This_Country_Ours_Part3_1110.jpg
+https://librivox.org/rss/3689*http://www.archive.org/download/LibrivoxCdCoverArt12/This_Country_Ours_Part4_1110.jpg
+https://librivox.org/rss/3791*http://www.archive.org/download/LibrivoxCdCoverArt12/This_Country_Ours_Part5_1110.jpg
+https://librivox.org/rss/4420*http://archive.org/download/LibrivoxCdCoverArt22/This_Country_Ours_Part6_1209.jpg
+https://librivox.org/rss/2385*http://www.archive.org/download/LibrivoxCdCoverArt/When_Mother_Let_Us_Cook_1003.jpg

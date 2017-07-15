@@ -1,0 +1,11 @@
+https://librivox.org/rss/6698*http://archive.org/download/LibrivoxCdCoverArt33/adventuresdust_1312.jpg
+https://librivox.org/rss/956*http://www.archive.org/download/LibrivoxCdCoverArt/burgess_animal_book.jpg
+https://librivox.org/rss/1321*http://www.archive.org/download/LibrivoxCdCoverArt/burgess_bird_book.jpg
+https://librivox.org/rss/6449*http://www.archive.org/download/LibrivoxCdCoverArt16/life_bee_1204.jpg
+https://librivox.org/rss/479*http://www.archive.org/download/LibrivoxCdCoverArt11/Fairyland_Science_1112.jpg
+https://librivox.org/rss/7384*http://archive.org/download/LibrivoxCdCoverArt32/Handbook_Nature-Study_P1_1308.jpg
+https://librivox.org/rss/7034*http://archive.org/download/LibrivoxCdCoverArt31/InsectStories_1304.jpg
+https://librivox.org/rss/4869*http://archive.org/download/LibrivoxCdCoverArt25/mighty_animals_1212.jpg
+https://librivox.org/rss/8524*http://archive.org/download/secretofeverydaythings_1402_librivox/secret_everyday_things_1402.jpg
+https://librivox.org/rss/8108*http://archive.org/download/LibrivoxCdCoverArt33/ways_of_wood_folk_1402.jpg
+https://librivox.org/rss/7538*http://archive.org/download/LibrivoxCdCoverArt30/within_deep_1303.jpg

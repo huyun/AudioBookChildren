@@ -1,0 +1,4 @@
+https://librivox.org/rss/3643*http://www.archive.org/download/LibrivoxCdCoverArt4/Alices_Abenteuer_im_Wunderland_1004.jpg
+https://librivox.org/rss/1692*http://www.archive.org/download/librivox_cd_covers/heidi_2.jpg
+https://librivox.org/rss/5157*http://www.archive.org/download/LibrivoxCdCoverArt15/niels_holgersens_reise_teil1_1203.jpg
+https://librivox.org/rss/5880*http://archive.org/download/LibrivoxCdCoverArt31/niels_holgersens2_1305.jpg

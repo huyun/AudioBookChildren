@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'androidChildrenBook'
+            keyPassword 'huyun1978'
+            storeFile file('C:/workspace_android/AudioBookChildren/key')
+            storePassword 'huyun1978'
+        }
+    }
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "com.yun.audiobook.children"
+        minSdkVersion 9
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    compile 'com.android.support:multidex:1.0.0'
+    compile 'com.google.code.gson:gson:2.2.2'
+    compile 'com.google.android.gms:play-services:+'
+    compile files('libs/commons-codec-1.6.jar')
+    compile files('libs/fluent-hc-4.2.3.jar')
+    compile files('libs/httpclient-4.2.3.jar')
+    compile files('libs/httpclient-cache-4.2.3.jar')
+    compile files('libs/httpcore-4.2.2.jar')
+    compile files('libs/httpmime-4.2.3.jar')
+}
